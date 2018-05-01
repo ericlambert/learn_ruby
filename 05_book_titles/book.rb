@@ -20,6 +20,5 @@ class String
 		}
 		words[0].capitalize!
 		words.join(" ")
-
 	end
 end
